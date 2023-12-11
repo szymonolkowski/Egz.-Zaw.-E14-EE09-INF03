@@ -438,7 +438,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](inf03/inf03_2021_06_01/rozwiazanie.zip)
 ### 2022
 - Styczeń
-  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2022_01_01) \
+  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2022_01_01) ✔️\
 				[Arkusz](inf03/inf03_2022_01_01/inf_03_2022_01_01_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2022_01_01/inf_03_2022_01_01_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2022_01_01/zad1.zip) \
