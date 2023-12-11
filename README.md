@@ -1,12 +1,6 @@
 ## Technik informatyk - egzamin zawodowy E.14/EE.09/INF.03
 Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
 
-Discord: **Chriskyy**
-
-Donate: 
-- [Revolut - @chriskyy](https://revolut.me/chriskyy)
-- BLIK i inne metody przez discord
-
 Liczba arkuszy - 79
 
 Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
