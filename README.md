@@ -330,25 +330,25 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](ee09/ee09_2021_06_04/rozwiazanie.zip)
 ### 2022
 - Styczeń
-  - 01 (**PHP**) - Karty wędkarskie [EE.09-01-22.01-SG](ee09/ee09_2022_01_01) \
+  - 01 (**PHP**) - Karty wędkarskie [EE.09-01-22.01-SG](ee09/ee09_2022_01_01) ✔️\
 				[Arkusz](ee09/ee09_2022_01_01/ee_09_2022_01_01_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_01/ee_09_2022_01_01_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_01/pliki1.zip) \
 				[Rozwiązanie](ee09/ee09_2022_01_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_01_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Prognoza pogody Wrocław [EE.09-02-22.01-SG](ee09/ee09_2022_01_02) \
+  - 02 (**PHP**) - Prognoza pogody Wrocław [EE.09-02-22.01-SG](ee09/ee09_2022_01_02) ✔️\
 				[Arkusz](ee09/ee09_2022_01_02/ee_09_2022_01_02_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_02/ee_09_2022_01_02_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_02/pliki2.zip) \
 				[Rozwiązanie](ee09/ee09_2022_01_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_01_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Zespoły ratownicze [EE.09-03-22.01-SG](ee09/ee09_2022_01_03) \
+  - 03 (**PHP**) - Zespoły ratownicze [EE.09-03-22.01-SG](ee09/ee09_2022_01_03) ✔️\
 				[Arkusz](ee09/ee09_2022_01_03/ee_09_2022_01_03_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_03/ee_09_2022_01_03_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_03/pliki3.zip) \
 				[Rozwiązanie](ee09/ee09_2022_01_03/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_01_03/rozwiazanie.zip)
-  - 04 (**PHP**) - Forum wielbicieli psów [EE.09-04-22.01-SG](ee09/ee09_2022_01_04) \
+  - 04 (**PHP**) - Forum wielbicieli psów [EE.09-04-22.01-SG](ee09/ee09_2022_01_04) ✔️\
 				[Arkusz](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_04/pliki4.zip) \
@@ -430,7 +430,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 ## Formuła 2019 - INF.03 (10)
 ### 2021
 - Czerwiec
-  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2021_06_01) \
+  - 01 (**PHP**) - Restauracja Wszystkie Smaki [INF.03-01-21.06-SG](inf03/inf03_2021_06_01) ✔️\
 				[Arkusz](inf03/inf03_2021_06_01/inf_03_2021_06_01_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2021_06_01/inf_03_2021_06_01_SG_zo.pdf) 
 				[Baza](inf03/inf03_2021_06_01/zad1.zip) \
@@ -451,7 +451,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2022_06_01/pliki1.zip) \
 				[Rozwiązanie](inf03/inf03_2022_06_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2022_06_01/rozwiazanie.zip)
-  - 02 (**JS**) - Stacja paliw [INF.03-02-22.06-SG](inf03/inf03_2022_06_02) \
+  - 02 (**JS**) - Stacja paliw [INF.03-02-22.06-SG](inf03/inf03_2022_06_02) ✔️\
 				[Arkusz](inf03/inf03_2022_06_02/inf_03_2022_06_02_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2022_06_02/inf_03_2022_06_02_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2022_06_02/pliki2.zip) \
