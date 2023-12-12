@@ -445,7 +445,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](inf03/inf03_2022_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2022_01_01/rozwiazanie.zip)
 - Czerwiec
-  - 01 (**PHP**) - Portal dla wędkarzy [INF.03-01-22.06-SG](inf03/inf03_2022_06_01) \
+  - 01 (**PHP**) - Portal dla wędkarzy [INF.03-01-22.06-SG](inf03/inf03_2022_06_01) ✔️\
 				[Arkusz](inf03/inf03_2022_06_01/inf_03_2022_06_01_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2022_06_01/inf_03_2022_06_01_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2022_06_01/pliki1.zip) \
