@@ -457,7 +457,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2022_06_02/pliki2.zip) \
 				[Rozwiązanie](inf03/inf03_2022_06_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2022_06_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Zawody wędkarskie [INF.03-02-22.06-SG](inf03/inf03_2022_06_03) \
+  - 03 (**PHP**) - Zawody wędkarskie [INF.03-02-22.06-SG](inf03/inf03_2022_06_03) ✔️\
 				[Arkusz](inf03/inf03_2022_06_03/inf_03_2022_06_03_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2022_06_03/inf_03_2022_06_03_SG_zo.xlsx) 
 				[Baza](inf03/inf03_2022_06_03/pliki3.zip) \
