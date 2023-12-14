@@ -470,7 +470,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2023_01_01/zad1.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_01/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Wynajem pokoi [INF.03-02-23.01-SG](inf03/inf03_2023_01_02) \
+  - 02 (**PHP**) - Wynajem pokoi [INF.03-02-23.01-SG](inf03/inf03_2023_01_02) ✔️\
 				[Arkusz](inf03/inf03_2023_01_02/arkusz) 
 				[Baza](inf03/inf03_2023_01_02/zad2.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_02/rozwiazanie)
