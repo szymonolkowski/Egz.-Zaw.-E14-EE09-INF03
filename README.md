@@ -475,7 +475,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2023_01_02/zad2.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Kwiaty [INF.03-03-23.01-SG](inf03/inf03_2023_01_03) \
+  - 03 (**PHP**) - Kwiaty [INF.03-03-23.01-SG](inf03/inf03_2023_01_03) ✔️\
 				[Arkusz](inf03/inf03_2023_01_03/arkusz) 
 				[Baza](inf03/inf03_2023_01_03/zad3.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_03/rozwiazanie)
