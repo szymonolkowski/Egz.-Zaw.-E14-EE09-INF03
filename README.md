@@ -410,7 +410,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2023_01_02/zad2.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_02/rozwiazanie.zip)
-  - 03 (**JS**) - Gazeta [EE.09-03-23.01-SG](ee09/ee09_2023_01_03) \
+  - 03 (**JS**) - Gazeta [EE.09-03-23.01-SG](ee09/ee09_2023_01_03) ✔️\
 				[Arkusz](ee09/ee09_2023_01_03/arkusz) 
 				[Baza](ee09/ee09_2023_01_03) \
 				[Rozwiązanie](ee09/ee09_2023_01_03/rozwiazanie) 
