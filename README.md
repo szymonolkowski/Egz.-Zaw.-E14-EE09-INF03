@@ -405,7 +405,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2023_01_01/zad1.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_01/rozwiazanie.zip)
-  - 02 (**JS**) - Galeria [EE.09-02-23.01-SG](ee09/ee09_2023_01_02) \
+  - 02 (**JS**) - Galeria [EE.09-02-23.01-SG](ee09/ee09_2023_01_02) ✔️\
 				[Arkusz](ee09/ee09_2023_01_02/arkusz) 
 				[Baza](ee09/ee09_2023_01_02/zad2.zip) \
 				[Rozwiązanie](ee09/ee09_2023_01_02/rozwiazanie)
