@@ -360,7 +360,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2022_01_05/pliki5.zip) \
 				[Rozwiązanie](ee09/ee09_2022_01_05/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_01_05/rozwiazanie.zip)
-  - 06 (**JS**) - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06) \
+  - 06 (**JS**) - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06) ✔️\
 				[Arkusz](ee09/ee09_2022_01_06/ee_09_2022_01_06_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_06/ee_09_2022_01_06_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_06/pliki6.zip) \
