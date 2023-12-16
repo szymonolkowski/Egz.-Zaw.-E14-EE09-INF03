@@ -379,7 +379,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2022_06_01/zad1.zip) \
 				[Rozwiązanie](ee09/ee09_2022_06_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_06_01/rozwiazanie.zip)
-  - 02 (**JS**) - Pomocnik CSS [EE.09-02-22.06-SG](ee09/ee09_2022_06_02) \
+  - 02 (**JS**) - Pomocnik CSS [EE.09-02-22.06-SG](ee09/ee09_2022_06_02) ✔️\
 				[Arkusz](ee09/ee09_2022_06_02/ee_09_2022_06_02_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_06_02/ee_09_2022_06_02_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_06_02/zad2.zip) \
