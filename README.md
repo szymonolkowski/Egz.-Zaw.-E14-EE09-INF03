@@ -116,7 +116,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](e14/e14_2019_06_01/materialy1.zip) \
 				[Rozwiązanie](e14/e14_2019_06_01/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Hurtownia papiernicza [E.14-02-19.06](e14/e14_2019_06_02) \
+  - 02 (**PHP**) - Hurtownia papiernicza [E.14-02-19.06](e14/e14_2019_06_02) ✔️\
 				[Arkusz](e14/e14_2019_06_02/e14_2019_06_02.pdf) 
 				[Baza](e14/e14_2019_06_02/materialy2.zip) \
 				[Rozwiązanie](e14/e14_2019_06_02/rozwiazanie)
@@ -496,7 +496,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](e14/e14_2019_06_01/materialy1.zip) \
 				[Rozwiązanie](e14/e14_2019_06_01/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_01/rozwiazanie.zip)
-   - 02 (**PHP**) - Hurtownia papiernicza [INF.03-02-23.06](e14/e14_2019_06_02) \
+   - 02 (**PHP**) - Hurtownia papiernicza [INF.03-02-23.06](e14/e14_2019_06_02) ✔️\
 				[Arkusz](e14/e14_2019_06_02/e14_2019_06_02.pdf) 
 				[Baza](e14/e14_2019_06_02/materialy2.zip) \
 				[Rozwiązanie](e14/e14_2019_06_02/rozwiazanie)
