@@ -121,12 +121,12 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](e14/e14_2019_06_02/materialy2.zip) \
 				[Rozwiązanie](e14/e14_2019_06_02/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Biblioteka [E.14-03-19.06](e14/e14_2019_06_03) \
+  - 03 (**PHP**) - Biblioteka [E.14-03-19.06](e14/e14_2019_06_03) ✔️\
 				[Arkusz](e14/e14_2019_06_03/e14_2019_06_03.pdf) 
 				[Baza](e14/e14_2019_06_03/materialy3.zip) \
 				[Rozwiązanie](e14/e14_2019_06_03/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_03/rozwiazanie.zip)
-  - 04 (**PHP**) - Biblioteka [E.14-04-19.06](e14/e14_2019_06_04) \
+  - 04 (**PHP**) - Biblioteka [E.14-04-19.06](e14/e14_2019_06_04) ✔️\
 				[Arkusz](e14/e14_2019_06_04/e14_2019_06_04.pdf) 
 				[Baza](e14/e14_2019_06_04/materialy4.zip) \
 				[Rozwiązanie](e14/e14_2019_06_04/rozwiazanie)
@@ -501,7 +501,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](e14/e14_2019_06_02/materialy2.zip) \
 				[Rozwiązanie](e14/e14_2019_06_02/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_02/rozwiazanie.zip)
-   - 03 (**PHP**) - Biblioteka [INF.03-03-23.06](e14/e14_2019_06_03) \
+   - 03 (**PHP**) - Biblioteka [INF.03-03-23.06](e14/e14_2019_06_03) ✔️\
 				[Arkusz](e14/e14_2019_06_03/e14_2019_06_03.pdf) 
 				[Baza](e14/e14_2019_06_03/materialy3.zip) \
 				[Rozwiązanie](e14/e14_2019_06_03/rozwiazanie)
