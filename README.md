@@ -465,7 +465,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](inf03/inf03_2022_06_03/rozwiazanie.zip)
 ### 2023
 - Styczeń
-  - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) \
+  - 01 (**JS**) - Malarz [INF.03-01-23.01-SG](inf03/inf03_2023_01_01) ✔️\
 				[Arkusz](inf03/inf03_2023_01_01/arkusz) 
 				[Baza](inf03/inf03_2023_01_01/zad1.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_01/rozwiazanie)
