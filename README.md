@@ -480,7 +480,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2023_01_03/zad3.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_03/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_03/rozwiazanie.zip)
-  - 04 (**PHP**) - Wycieczki po Europie [INF.03-04-23.01-SG](inf03/inf03_2023_01_04) \
+  - 04 (**PHP**) - Wycieczki po Europie [INF.03-04-23.01-SG](inf03/inf03_2023_01_04) ✔️\
 				[Arkusz](inf03/inf03_2023_01_04/arkusz) 
 				[Baza](inf03/inf03_2023_01_04/zad4.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_04/rozwiazanie)
