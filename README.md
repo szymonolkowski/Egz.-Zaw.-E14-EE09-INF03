@@ -485,7 +485,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](inf03/inf03_2023_01_04/zad4.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_04/rozwiazanie.zip)
-  - 05 (**PHP**) - Sierpniowy kalendarz [INF.03-05-23.01-SG](inf03/inf03_2023_01_05) \
+  - 05 (**PHP**) - Sierpniowy kalendarz [INF.03-05-23.01-SG](inf03/inf03_2023_01_05) ✔️\
 				[Arkusz](inf03/inf03_2023_01_05/arkusz) 
 				[Baza](inf03/inf03_2023_01_05/zad5.zip) \
 				[Rozwiązanie](inf03/inf03_2023_01_05/rozwiazanie)
