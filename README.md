@@ -250,7 +250,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2020_06_03/egzamin5.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_03/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_06_03/rozwiazanie.zip)
-  - 04 (**JS**) - Salon kosmetyczny [EE.09-04-20.06-SG](ee09/ee09_2020_06_04) \
+  - 04 (**JS**) - Salon kosmetyczny [EE.09-04-20.06-SG](ee09/ee09_2020_06_04) ✔️\
 				[Arkusz](ee09/ee09_2020_06_04/ee09_2020_06_04_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_04/egzamin1.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_04/rozwiazanie)
