@@ -354,7 +354,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2022_01_04/pliki4.zip) \
 				[Rozwiązanie](ee09/ee09_2022_01_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2022_01_04/rozwiazanie.zip)
-  - 05 (**PHP**) - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05) \
+  - 05 (**PHP**) - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05) ✔️\
 				[Arkusz](ee09/ee09_2022_01_05/ee_09_2022_01_05_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_05/ee_09_2022_01_05_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_05/pliki5.zip) \
