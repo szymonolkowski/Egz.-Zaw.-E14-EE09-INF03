@@ -421,7 +421,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](ee09/ee09_2023_01_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2023_01_04/rozwiazanie.zip)
 - Czerwiec
-  - 01 (**PHP**) - Forum wielbicieli psów [EE.09-01-23.06-SG](ee09/ee09_2022_01_04) \
+  - 01 (**PHP**) - Forum wielbicieli psów [EE.09-01-23.06-SG](ee09/ee09_2022_01_04) ✔️\
 				[Arkusz](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2022_01_04/ee_09_2022_01_04_SG_zo.xlsx) 
 				[Baza](ee09/ee09_2022_01_04/pliki4.zip) \
