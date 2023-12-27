@@ -399,7 +399,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](ee09/ee09_2022_06_04/rozwiazanie.zip)
 ### 2023
 - Styczeń
-  - 01 (**PHP**) - Sekretariat [EE.09-01-23.01-SG](ee09/ee09_2023_01_01) \
+  - 01 (**PHP**) - Sekretariat [EE.09-01-23.01-SG](ee09/ee09_2023_01_01) ✔️\
 				[Arkusz](ee09/ee09_2023_01_01/ee_09_2023_01_01_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2023_01_01/ee_09_2023_01_01_SG_zo.pdf) 
 				[Baza](ee09/ee09_2023_01_01/zad1.zip) \
