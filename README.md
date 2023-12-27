@@ -111,7 +111,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](e14/e14_2019_01_12/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_01_12/rozwiazanie.zip)
 - Czerwiec
-  - 01 (**PHP**) - Sklep papierniczy [E.14-01-19.06](e14/e14_2019_06_01) \
+  - 01 (**PHP**) - Sklep papierniczy [E.14-01-19.06](e14/e14_2019_06_01) ✔️\
 				[Arkusz](e14/e14_2019_06_01/e14_2019_06_01.pdf) 
 				[Baza](e14/e14_2019_06_01/materialy1.zip) \
 				[Rozwiązanie](e14/e14_2019_06_01/rozwiazanie)
@@ -491,7 +491,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](inf03/inf03_2023_01_05/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2023_01_05/rozwiazanie.zip)
 - Czerwiec (wzorowane na podanych, minimalne zmiany kwerend, css i modyfikacja grafiki)
-  - 01 (**PHP**) - Sklep papierniczy [INF.03-01-23.06](e14/e14_2019_06_01) \
+  - 01 (**PHP**) - Sklep papierniczy [INF.03-01-23.06](e14/e14_2019_06_01) ✔️\
 				[Arkusz](e14/e14_2019_06_01/e14_2019_06_01.pdf) 
 				[Baza](e14/e14_2019_06_01/materialy1.zip) \
 				[Rozwiązanie](e14/e14_2019_06_01/rozwiazanie)
