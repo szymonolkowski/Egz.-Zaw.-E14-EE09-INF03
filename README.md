@@ -3,6 +3,17 @@ Arkusze z plikami wraz z rozwiazaniami napisanymi przeze mnie.
 
 Liczba arkuszy - 79
 
+Wybrane szczególne arkusze:
+- **JS** Formatowanie dokumentu HTML [E.14-02-19.01](e14/e14_2019_01_02)
+- **JS** - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04)
+- **JS** - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05)
+- **Cookies** - Przyloty samolotów [EE.09-05-21.01-SG](ee09/ee09_2021_01_05)
+- **Wyświetlanie wielu bloków PHP** - Warzywniak [EE.09-02-21.06-SG](ee09/ee09_2021_06_02)
+- **Wyświetlanie wielu bloków PHP** - Wypożyczalnia filmów [EE.09-03-21.06-SG](ee09/ee09_2021_06_03)
+- **Panel logowania PHP** - Portal społecznościowy [EE.09-05-22.01-SG](ee09/ee09_2022_01_05)
+- **JS** - Konfugurator stylu [EE.09-06-22.01-SG](ee09/ee09_2022_01_06)
+- **Trudniejszy JS** - Zamówienia hurtowe [EE.09-04-22.06-SG](ee09/ee09_2022_06_04)
+
 Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 ## Formuła 2012 - E.14 (34)
 ### 2018
