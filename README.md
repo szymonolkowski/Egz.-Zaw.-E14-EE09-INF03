@@ -266,7 +266,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2020_06_04/egzamin1.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_06_04/rozwiazanie.zip)
-  - 05 (**JS**) - Salon fryzjerski [EE.09-05-20.06-SG](ee09/ee09_2020_06_05) \
+  - 05 (**JS**) - Salon fryzjerski [EE.09-05-20.06-SG](ee09/ee09_2020_06_05) ✔️\
 				[Arkusz](ee09/ee09_2020_06_05/ee09_2020_06_05_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_05/egzamin2.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_05/rozwiazanie)
