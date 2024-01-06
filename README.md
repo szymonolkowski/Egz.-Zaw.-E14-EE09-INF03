@@ -315,7 +315,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Rozwiązanie](ee09/ee09_2021_01_06/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2021_01_06/rozwiazanie.zip)
 - Czerwiec
-  - 01 (**PHP**) - Lista przyjaciół [EE.09-01-21.06-SG](ee09/ee09_2021_06_01) \
+  - 01 (**PHP**) - Lista przyjaciół [EE.09-01-21.06-SG](ee09/ee09_2021_06_01) ✔️\
 				[Arkusz](ee09/ee09_2021_06_01/ee_09_2021_06_01_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_06_01/ee_09_2021_06_01_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_06_01/zad1.zip) \
