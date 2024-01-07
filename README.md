@@ -296,7 +296,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2021_01_03/z3.zip) \
 				[Rozwiązanie](ee09/ee09_2021_01_03/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2021_01_03/rozwiazanie.zip)
-  - 04 (**PHP**) - BMI [EE.09-04-21.01-SG](ee09/ee09_2021_01_04) \
+  - 04 (**PHP**) - BMI [EE.09-04-21.01-SG](ee09/ee09_2021_01_04) ✔️\
 				[Arkusz](ee09/ee09_2021_01_04/ee_09_2021_01_04_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_01_04/ee_09_2021_01_04_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_01_04/z4.zip) \
@@ -308,7 +308,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2021_01_05/z5.zip) \
 				[Rozwiązanie](ee09/ee09_2021_01_05/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2021_01_05/rozwiazanie.zip)
-  - 06 (**PHP**) - Odloty samolotów [EE.09-06-21.01-SG](ee09/ee09_2021_01_06) \
+  - 06 (**PHP**) - Odloty samolotów [EE.09-06-21.01-SG](ee09/ee09_2021_01_06) ✔️\
 				[Arkusz](ee09/ee09_2021_01_06/ee_09_2021_01_06_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_01_06/ee_09_2021_01_06_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_01_06/z6.zip) \
