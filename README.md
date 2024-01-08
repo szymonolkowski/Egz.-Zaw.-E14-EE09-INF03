@@ -278,19 +278,19 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[RozwiązanieZIP](ee09/ee09_2020_06_06/rozwiazanie.zip)
 ### 2021
 - Styczeń
-  - 01 (**PHP**) - Rozgrywki futbolowe [EE.09-01-21.01-SG](ee09/ee09_2021_01_01) \
+  - 01 (**PHP**) - Rozgrywki futbolowe [EE.09-01-21.01-SG](ee09/ee09_2021_01_01) ✔️\
 				[Arkusz](ee09/ee09_2021_01_01/ee_09_2021_01_01_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_01_01/ee_09_2021_01_01_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_01_01/z1.zip) \
 				[Rozwiązanie](ee09/ee09_2021_01_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2021_01_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Piłka nożna [EE.09-02-21.01-SG](ee09/ee09_2021_01_02) \
+  - 02 (**PHP**) - Piłka nożna [EE.09-02-21.01-SG](ee09/ee09_2021_01_02) ✔️\
 				[Arkusz](ee09/ee09_2021_01_02/ee_09_2021_01_02_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_01_02/ee_09_2021_01_02_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_01_02/z2.zip) \
 				[Rozwiązanie](ee09/ee09_2021_01_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2021_01_02/rozwiazanie.zip)
-  - 03 (**PHP**) - BMI [EE.09-03-21.01-SG](ee09/ee09_2021_01_03) \
+  - 03 (**PHP**) - BMI [EE.09-03-21.01-SG](ee09/ee09_2021_01_03) ✔️\
 				[Arkusz](ee09/ee09_2021_01_03/ee_09_2021_01_03_SG.pdf) 
 				[Zasady oceny](ee09/ee09_2021_01_03/ee_09_2021_01_03_SG_zo.pdf) 
 				[Baza](ee09/ee09_2021_01_03/z3.zip) \
