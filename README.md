@@ -240,23 +240,23 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2020_01_02/pliki2.zip) \
 				[Rozwiązanie](ee09/ee09_2020_01_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_01_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Prognoza pogody Poznań [EE.09-03-20.01-SG](ee09/ee09_2020_01_03) \
+  - 03 (**PHP**) - Prognoza pogody Poznań [EE.09-03-20.01-SG](ee09/ee09_2020_01_03) ✔️\
 				[Arkusz](ee09/ee09_2020_01_03/ee09_2020_01_03_SG.pdf) 
 				[Baza](ee09/ee09_2020_01_03/pliki3.zip) \
 				[Rozwiązanie](ee09/ee09_2020_01_03/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_01_03/rozwiazanie.zip)
 - Czerwiec
-  - 01 (**PHP**) - Organizer [EE.09-01-20.06-SG](ee09/ee09_2020_06_01) \
+  - 01 (**PHP**) - Organizer [EE.09-01-20.06-SG](ee09/ee09_2020_06_01) ✔️\
 				[Arkusz](ee09/ee09_2020_06_01/ee09_2020_06_01_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_01/egzamin5.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_06_01/rozwiazanie.zip)
-  - 02 (**PHP**) - Biuro podróży [EE.09-02-20.06-SG](ee09/ee09_2020_06_02) \
+  - 02 (**PHP**) - Biuro podróży [EE.09-02-20.06-SG](ee09/ee09_2020_06_02) ✔️\
 				[Arkusz](ee09/ee09_2020_06_02/ee09_2020_06_02_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_02/egzamin3.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_02/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_06_02/rozwiazanie.zip)
-  - 03 (**PHP**) - Kalendarz [EE.09-03-20.06-SG](ee09/ee09_2020_06_03) \
+  - 03 (**PHP**) - Kalendarz [EE.09-03-20.06-SG](ee09/ee09_2020_06_03) ✔️\
 				[Arkusz](ee09/ee09_2020_06_03/ee09_2020_06_03_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_03/egzamin5.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_03/rozwiazanie)
@@ -271,7 +271,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2020_06_05/egzamin2.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_05/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_06_05/rozwiazanie.zip)
-  - 06 (**PHP**) - Biuro podróży [EE.09-06-20.06-SG](ee09/ee09_2020_06_06) \
+  - 06 (**PHP**) - Biuro podróży [EE.09-06-20.06-SG](ee09/ee09_2020_06_06) ✔️\
 				[Arkusz](ee09/ee09_2020_06_06/ee09_2020_06_06_SG.pdf) 
 				[Baza](ee09/ee09_2020_06_06/egzamin4.zip) \
 				[Rozwiązanie](ee09/ee09_2020_06_06/rozwiazanie)
