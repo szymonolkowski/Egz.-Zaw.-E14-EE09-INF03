@@ -235,7 +235,7 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2020_01_01/pliki1.zip) \
 				[Rozwiązanie](ee09/ee09_2020_01_01/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2020_01_01/rozwiazanie.zip)
-  - 02 (**JS**) - Stacja paliw [EE.09-02-20.01-SG](ee09/ee09_2020_01_02) \
+  - 02 (**JS**) - Stacja paliw [EE.09-02-20.01-SG](ee09/ee09_2020_01_02) ✔️\
 				[Arkusz](ee09/ee09_2020_01_02/ee09_2020_01_02_SG.pdf) 
 				[Baza](ee09/ee09_2020_01_02/pliki2.zip) \
 				[Rozwiązanie](ee09/ee09_2020_01_02/rozwiazanie)
