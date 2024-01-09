@@ -213,24 +213,24 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](ee09/ee09_2019_06_03/pliki3.zip) \
 				[Rozwiązanie](ee09/ee09_2019_06_03/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2019_06_03/rozwiazanie.zip)
-  - 04 (**JS**) - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04) \
+  - 04 (**JS**) - Pomocnik matematyczny [EE.09-04-19.06](ee09/ee09_2019_06_04) ✔️\
 				[Arkusz](ee09/ee09_2019_06_04/ee09_2019_06_04.pdf) 
 				[Baza](ee09/ee09_2019_06_04/pliki4.zip) \
 				[Rozwiązanie](ee09/ee09_2019_06_04/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2019_06_04/rozwiazanie.zip)
-  - 05 (**JS**) - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05) \
+  - 05 (**JS**) - Ciągi liczbowe [EE.09-05-19.06](ee09/ee09_2019_06_05) ✔️\
 				[Arkusz](ee09/ee09_2019_06_05/ee09_2019_06_05.pdf) 
 				[Baza](ee09/ee09_2019_06_05/pliki5.zip) \
 				[Rozwiązanie](ee09/ee09_2019_06_05/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2019_06_05/rozwiazanie.zip)
-  - 06 (**PHP**) - Pogotowie Ratunkowe [EE.09-05-19.06](ee09/ee09_2019_06_06) \
+  - 06 (**PHP**) - Pogotowie Ratunkowe [EE.09-05-19.06](ee09/ee09_2019_06_06) ✔️\
 				[Arkusz](ee09/ee09_2019_06_06/ee09_2019_06_06.pdf) 
 				[Baza](ee09/ee09_2019_06_06/pliki6.zip) \
 				[Rozwiązanie](ee09/ee09_2019_06_06/rozwiazanie)
 				[RozwiązanieZIP](ee09/ee09_2019_06_06/rozwiazanie.zip)
 ### 2020
 - Styczeń
-  - 01 (**PHP**) - Klub wędkowania [EE.09-01-20.01-SG](ee09/ee09_2020_01_01) \
+  - 01 (**PHP**) - Klub wędkowania [EE.09-01-20.01-SG](ee09/ee09_2020_01_01) ✔️\
 				[Arkusz](ee09/ee09_2020_01_01/ee09_2020_01_01_SG.pdf) 
 				[Baza](ee09/ee09_2020_01_01/pliki1.zip) \
 				[Rozwiązanie](ee09/ee09_2020_01_01/rozwiazanie)
