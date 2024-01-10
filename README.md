@@ -522,3 +522,51 @@ Wszystkie zadania JavaScript z arkuszy z lat 2018-2022 [zadania_js](zadania_js)
 				[Baza](e14/e14_2019_06_04/materialy4.zip) \
 				[Rozwiązanie](e14/e14_2019_06_04/rozwiazanie)
 				[RozwiązanieZIP](e14/e14_2019_06_04/rozwiazanie.zip)
+  - 05 (**PHP**) - Hurtownia szkolna [INF.03-05-23.06](inf03/inf03_2023_06_05) \
+				[Arkusz](inf03/inf03_2023_06_05/inf_03_2023_06_05_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_05/INF_03_2023_06_05_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_05/materialy5.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_05/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_05/rozwiazanie.zip)
+   - 06 (**PHP**) - Biblioteka publiczna [INF.03-06-23.06](inf03/inf03_2023_06_06) \
+				[Arkusz](inf03/inf03_2023_06_06/inf_03_2023_06_06_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_06/INF_03_2023_06_06_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_06/materialy6.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_06/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_06/rozwiazanie.zip)
+   - 07 (**PHP**) - Biblioteka [INF.03-07-23.06](inf03/inf03_2023_06_07) \
+				[Arkusz](inf03/inf03_2023_06_07/inf_03_2023_06_07_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_07/INF_03_2023_06_07_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_07/materialy7.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_07/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_07/rozwiazanie.zip)
+   - 08 (**PHP**) - Sklep dla uczniów [INF.03-08-23.06](inf03/inf03_2023_06_08) \
+				[Arkusz](inf03/inf03_2023_06_08/inf_03_2023_06_08_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_08/INF_03_2023_06_08_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_08/materialy8.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_08/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_08/rozwiazanie.zip)
+   - 09 (**PHP**) - Biblioteka [INF.03-09-23.06](inf03/inf03_2023_06_09) \
+				[Arkusz](inf03/inf03_2023_06_09/inf_03_2023_06_09_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_09/INF_03_2023_06_09_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_09/materialy9.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_09/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_09/rozwiazanie.zip)
+   - 10 (**PHP**) - Biblioteka publiczna [INF.03-10-23.06](inf03/inf03_2023_06_10) \
+				[Arkusz](inf03/inf03_2023_06_10/inf_03_2023_06_10_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_10/INF_03_2023_06_10_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_10/materialy10.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_10/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_10/rozwiazanie.zip)
+   - 11 (**PHP**) - Biblioteka [INF.03-11-23.06](inf03/inf03_2023_06_11) \
+				[Arkusz](inf03/inf03_2023_06_11/inf_03_2023_06_11_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_11/INF_03_2023_06_11_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_11/materialy11.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_11/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_11/rozwiazanie.zip)
+   - 12 (**PHP**) - Hurtownia szkolna [INF.03-12-23.06](inf03/inf03_2023_06_12) \
+				[Arkusz](inf03/inf03_2023_06_12/inf_03_2023_06_12_SG.pdf) 
+				[Zasady oceny](inf03/inf03_2023_06_12/INF_03_2023_06_12_SG_zo.pdf) 
+				[Baza](inf03/inf03_2023_06_12/materialy12.7z) \
+				[Rozwiązanie](inf03/inf03_2023_06_12/rozwiazanie)
+				[RozwiązanieZIP](inf03/inf03_2023_06_12/rozwiazanie.zip)
