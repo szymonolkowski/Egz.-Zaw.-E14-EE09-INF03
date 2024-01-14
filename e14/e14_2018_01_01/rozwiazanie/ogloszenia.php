@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="ITF-8" />
 	<title>Portal ogłoszeniowy</title>
 	<link rel="stylesheet" href="styl1.css" />
 </head>
+
 <body>
 	<div id="baner">
 		<h1>Portal Ogłoszeniowy</h1>
@@ -46,7 +48,7 @@
 		$kw2 = "SELECT telefon FROM uzytkownik, ogloszenie WHERE uzytkownik.id = ogloszenie.uzytkownik_id;";
 		$res1 = mysqli_query($con, $kw1);
 		$res2 = mysqli_query($con, $kw2);
-		while($tab = mysqli_fetch_row($res1)) {
+		while ($tab = mysqli_fetch_row($res1)) {
 			$tab2 = mysqli_fetch_row($res2);
 			echo "<h3>$tab[0] $tab[1]</h3>";
 			echo "<p>$tab[2]</p>";
@@ -59,4 +61,5 @@
 		Portal ogłoszeniowy opracował: PESEL
 	</div>
 </body>
+
 </html>
